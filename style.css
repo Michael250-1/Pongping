@@ -1,0 +1,35 @@
+.header{
+    width:100%;
+    text-align: center;
+}
+#divcool{
+width:100%;
+}
+.header h3{
+    display: inline;
+}
+#instruct{
+    float: right;
+    border-color: 1px solid white;
+}
+#start, #status{
+    font-size: 25px;
+}
+#footer{
+    width:100%;
+    background-color: grey;
+    margin-bottom: auto;
+    text-align: center;
+    bottom:0;
+    position:fixed;
+}
+.modal-dialog{
+    width:90%;
+}
+.controls{
+    display:inline-block;
+}
+body{
+    background-size:cover;
+    background-attachment: fixed;
+}
