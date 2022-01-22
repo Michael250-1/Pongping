@@ -1,14 +1,11 @@
 .header{
     width:100%;
-    text-align: center;
-}
-#divcool{
-width:100%;
+    text-align: left;
 }
 .header h3{
     display: inline;
 }
-#instruct{
+.header button{
     float: right;
     border-color: 1px solid white;
 }
@@ -17,19 +14,12 @@ width:100%;
 }
 #footer{
     width:100%;
-    background-color: grey;
-    margin-bottom: auto;
-    text-align: center;
-    bottom:0;
+    font-size: 30px;
+    bottom:0px;
     position:fixed;
+    text-align: center;
+    color:white;
+    background-color: grey;
+    line-height:2;
 }
-.modal-dialog{
-    width:90%;
-}
-.controls{
-    display:inline-block;
-}
-body{
-    background-size:cover;
-    background-attachment: fixed;
-}
+
